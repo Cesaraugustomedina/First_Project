@@ -1,18 +1,16 @@
-# Superstore sales
+<h1 align="center">🛒 SUPERSTORE 🛒</h1>
+<p align="center">
+  <b>Proyecto para el análisis de un dataset.</b>
+</p>
+
 
 
 «Superstore Sales» es una recopilación completa y versátil que ofrece información valiosa sobre las ventas, el comportamiento de los clientes y el rendimiento de los productos. Este conjunto de datos constituye un valioso recurso para realizar análisis en profundidad.
 
 El conjunto de datos, que contiene información procedente de diversas regiones y segmentos, permite analizar tendencias, patrones y correlaciones en las ventas y las preferencias de los clientes. El conjunto de datos incluye transacciones de venta, lo que permite a los investigadores y analistas comprender los patrones de compra, identificar los productos con mayor demanda y evaluar la eficacia de los distintos métodos de envío.
 
-![Mi GIF de GIPHY](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenByeW05c2MzMzMzM3hveGRsYXo2a2h5eXY1dm54MjRib2FhdDNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UeMQHvpcal7vHO7gqs/giphy.gif)
 
-
-
-
-
-
-
+![Grocery store](https://github.com/user-attachments/assets/66aabee3-3cfa-4041-b7c4-828582f1e7e5)
 
 
 
@@ -42,3 +40,38 @@ El conjunto de datos, que contiene información procedente de diversas regiones 
 | Quantity | Decimal | Cantidad vendida |
 | Discount | Float | Descuento asociado a la venta|
 | Profit | Float | Ganancias derivadas de la venta |
+
+
+# Business Intelligence
+
+### En la siguiente fact table se analizarán los siguientes KPI'S:
+
+## 1. Análisis de Rentabilidad:
+
+* ¿Qué productos pierden dinero?:
+* ¿Cuál es el Margen Real?
+
+## 2. Segmentación de Clientes y Geografía
+
+* Top 10 Clientes
+* Mapa de Ventas
+
+## 3. Gestión de Inventario y Logística
+
+* Tiempo de Entrega
+* Eficiencia de Envío
+
+## 4. Análisis de Producto
+
+
+* Pareto (80/20): Identifica el 20% de tus productos que generan el 80% de tus ventas.
+* Descuentos Efectivos: ¿Realmente aumentan las ventas los descuentos? Compara el volumen (Quantity) en periodos con Discount vs periodos sin él.
+
+------------------------------
+
+
+
+
+
+
+
