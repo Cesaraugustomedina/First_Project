@@ -58,14 +58,14 @@ El conjunto de datos, que contiene información procedente de diversas regiones 
 
 ## 3. Gestión de Inventario y Logística
 
-* Tiempo de Entrega
+* Tiempo de entrega
 * Eficiencia de Envío
 
-## 4. Análisis de Producto
+## 4. Análisis de producto
 
 
-* Pareto (80/20): Identifica el 20% de tus productos que generan el 80% de tus ventas.
-* Descuentos Efectivos: ¿Realmente aumentan las ventas los descuentos? Compara el volumen (Quantity) en periodos con Discount vs periodos sin él.
+* Pareto (80/20)
+* Descuentos Efectivos
 
 ------------------------------
 
